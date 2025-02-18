@@ -45,7 +45,7 @@ options:
   rails_force_ssl: false
   rails_assume_ssl: false
   good_job_execution_mode: "async"
-version: 0.3.3
+version: 0.3.4
 #build:
 #  dockerfile: Dockerfile
 #  args:
