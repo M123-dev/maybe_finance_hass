@@ -47,5 +47,5 @@ options:
 #  dockerfile: Dockerfile
 #  args:
 #    BUILD_ARCH: "{arch}"
-version: 0.3.3
+version: 0.3.4
 image: ghcr.io/m123-dev/{arch}-maybe_finance_homeassistant
