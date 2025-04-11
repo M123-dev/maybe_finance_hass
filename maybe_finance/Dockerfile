@@ -13,7 +13,7 @@ FROM --platform=${BUILD_ARCH} alpine/git AS clone
 WORKDIR /src
 RUN apk add --no-cache git && \
     git clone https://github.com/maybe-finance/maybe.git . && \
-    git checkout 02bfa9f25162452533629cd2749337cc2c505dac
+    git checkout 52d170e36c3b84c4658213ccb7ef86095ec2eb81
 
 ############################
 # Stage 2: Base image with necessary dependencies

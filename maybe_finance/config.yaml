@@ -47,7 +47,7 @@ options:
   rails_assume_ssl: false
   good_job_execution_mode: "async"
   require_invite_code: true
-version: 0.4.18
+version: 0.4.19
 #build:
 #  dockerfile: Dockerfile
 #  args:
