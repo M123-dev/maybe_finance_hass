@@ -1,3 +1,12 @@
+> [!CAUTION]
+> This add-on is non-functional due to recent changes in the upstream source code, which have made it significantly harder to run within Home Assistant.
+>
+>Unfortunately, I currently don't have the time required to investigate and implement a fix.
+>
+>Workaround: Please consider running Maybe in a standard container environment (e.g., Docker) for the time being.
+
+
+
 # Maybe Finance Addon for Home Assistant
 
 ## Introduction
